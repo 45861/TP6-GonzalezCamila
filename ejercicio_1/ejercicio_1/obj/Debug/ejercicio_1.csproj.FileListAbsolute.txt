@@ -1,0 +1,14 @@
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.exe.config
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.exe
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.pdb
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.csprojAssemblyReference.cache
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.csproj.CoreCompileInputs.cache
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.exe
+F:\proyecto\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.exe.config
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\bin\Debug\ejercicio_1.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.csprojAssemblyReference.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.csproj.CoreCompileInputs.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP6\ejercicio_1\ejercicio_1\obj\Debug\ejercicio_1.pdb
